@@ -1,0 +1,22 @@
+baseURL = "https://ruqqq.github.io"
+languageCode = "en-us"
+title = "ruqqq's Ramblings"
+theme = "kiss"
+copyright = "&copy; <a href=\"https://github.com/ruqqq\">Faruq Rasid</a> 2018"
+Paginate = 5
+enableRobotsTXT = true
+
+[params.info]
+enableSocial = false
+poweredby = false
+
+[params.social]
+twitter = "ruqqq"
+github = "ruqqq"
+email = "faruq.rasid@gmail.com"
+linkedin = "faruqrasid"
+facebook = "mohd.faruq"
+instagram = "ruqqq"
+
+[blackfriday]
+hrefTargetBlank = true
