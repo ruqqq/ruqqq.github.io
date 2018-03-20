@@ -1,4 +1,4 @@
-baseURL = "https://ruqqq.github.io"
+baseURL = "//ruqqq.sg"
 languageCode = "en-us"
 title = "ruqqq's Ramblings"
 theme = "kiss"
@@ -7,13 +7,13 @@ Paginate = 5
 enableRobotsTXT = true
 
 [params.info]
-enableSocial = false
+enableSocial = true
 poweredby = false
+homeTitle = "ruqqq's Ramblings"
 
 [params.social]
 twitter = "ruqqq"
 github = "ruqqq"
-email = "faruq.rasid@gmail.com"
 linkedin = "faruqrasid"
 facebook = "mohd.faruq"
 instagram = "ruqqq"
