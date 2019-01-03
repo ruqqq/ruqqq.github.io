@@ -1,7 +1,7 @@
 ---
 title: "Writing from mobile, Part 2"
 date: 2018-03-20T21:55:59+08:00
-draft: false
+draft: true
 ---
 
 This is how editing from Bear app looks like. 
