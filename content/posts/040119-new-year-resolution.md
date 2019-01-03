@@ -1,6 +1,6 @@
 ---
 title: "New Year Resolution"
-date: 2019-01-03T21:46:00+08:00
+date: 2019-01-03T21:00:43+08:00
 draft: false
 ---
 
@@ -11,4 +11,4 @@ draft: false
 5. Travel more
 6. Figure out how to earn side income
 
-{{< image-resize Featured-SG50-Fireworks "525x300" >}}
+{{< image-resize "Featured-SG50-Fireworks.png" "525x300" >}}
