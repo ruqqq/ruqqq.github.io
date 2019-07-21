@@ -1,7 +1,7 @@
 ---
 title: "New Year Resolution"
 date: 2019-01-03T21:00:43+08:00
-draft: false
+draft: true
 ---
 
 1. Focus on writing and publish at least an article on Medium

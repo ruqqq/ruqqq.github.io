@@ -1,7 +1,7 @@
 ---
 title: "Writing From Mobile Part 1"
 date: 2018-03-20T18:15:00+08:00
-draft: false
+draft: true
 ---
 
 When I (re)started this blog, it was out of curiosity to try out Hugo. Sounds cool to use a geeky tool and not depend on a CMS like WordPress right? Unfortunately, the coolness factor comes at a cost -- difficult to write and publish posts without a computer nearby.

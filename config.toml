@@ -2,7 +2,7 @@ baseURL = "//ruqqq.sg"
 languageCode = "en-us"
 title = "ruqqq's Ramblings"
 theme = "kiss"
-copyright = "&copy; <a href=\"https://github.com/ruqqq\">Faruq Rasid</a> 2018"
+copyright = "&copy; <a href=\"https://github.com/ruqqq\">Faruq Rasid</a> 2019"
 Paginate = 5
 enableRobotsTXT = true
 
