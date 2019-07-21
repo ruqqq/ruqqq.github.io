@@ -34,13 +34,13 @@ The rest of the crash course on this page are commands to be used in Normal mode
 
 These are your main keys when in Vim. It allows you to go left, down, up, right respectively. Is it intuitive? I would say nothing is more intuitive than actual arrow keys. But once you get used to `hjkl`, in combination with other keys, it definitely increases your productivity.
 
-#### <number> + h/j/k/l
+#### *number* + h/j/k/l
 
-Move the cursor <number> of characters towards the `h/j/k/l` direction respectively. You should turn on relative line numbers to effectively use the `j/k` movement. For example, `3j` will move the cursor 3 line down.
+Move the cursor *number* of characters towards the `h/j/k/l` direction respectively. You should turn on relative line numbers to effectively use the `j/k` movement. For example, `3j` will move the cursor 3 line down.
 
-### Horizontal Jumps: f/F/t/T + <char>
+### Horizontal Jumps (Find in line): f/F/t/T + *char*
 
-So you can now navigate up/down the text fluently, you would want to master how to move the cursor horizontally next. Besides jumping with `<number>-h/l`, it would be more intuitive to use `f<char>` to move the cursor to the first instance of the `<char>` found to the right.
+So you can now navigate up/down the text fluently, you would want to master how to move the cursor horizontally next. Besides jumping with `*number*-h/l`, it would be more intuitive to use `f*char*` to move the cursor to the first instance of the `*char*` found to the right.
 
 ```
 This is a line.
@@ -62,7 +62,7 @@ This is a line.
 
 Finally, `F` and `T` does the same except it looks the left instead of the right.
 
-#### ;
+#### Repeat Last Find: ;
 
 What if the there are more than one `l` on the line? Simply type `;` to repeat the previous jump until the cursor reached the place you wanted.
 
