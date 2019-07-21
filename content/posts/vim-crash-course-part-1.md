@@ -68,25 +68,25 @@ What if the there are more than one `l` on the line? Simply type `;` to repeat t
 
 ### Precise Jumps: w, e, b, %, 0, ^, $
 
-w -> Go to next **w**ord
-b -> Go to previous word (**b**ack)
-e -> Go to **e***nd of word
-% -> Go to the other pair of the bracket or braces
-0 -> Go to start of line
-^ -> Go to start of non-whitespace of line
-$ -> Go to end of line
+- w -> Go to next **w**ord
+- b -> Go to previous word (**b**ack)
+- e -> Go to **e***nd of word
+- % -> Go to the other pair of the bracket or braces
+- 0 -> Go to start of line
+- ^ -> Go to start of non-whitespace of line
+- $ -> Go to end of line
 
 **Pro-tip:** `w/b` can also be prefixed with a number like `h/j/k/l` to jump more than once.
 
 ### Major Jumps: gg, G, H, M, L, C(trl)-Up, C-Down, C-O, C-I
 
-gg -> Go to start of document
-G -> Go to end of document
-H -> Go to first line on the page
-M -> Go to middle of the page
-L -> Go to last line on the page
-C-Up/C-Down -> Simply just page up and page down
-C-O, C-I -> Jump to previous place/Jump back to next place
+- gg -> Go to start of document
+- G -> Go to end of document
+- H -> Go to first line on the page
+- M -> Go to middle of the page
+- L -> Go to last line on the page
+- C-Up/C-Down -> Simply just page up and page down
+- C-O, C-I -> Jump to previous place/Jump back to next place
 
 ### AceJump: Jump to any place on the page
 
