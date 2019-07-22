@@ -70,7 +70,7 @@ What if the there are more than one `l` on the line? Simply type `;` to repeat t
 
 - w -> Go to next **w**ord
 - b -> Go to previous word (**b**ack)
-- e -> Go to **e***nd of word
+- e -> Go to **e**nd of word
 - % -> Go to the other pair of the bracket or braces
 - 0 -> Go to start of line
 - ^ -> Go to start of non-whitespace of line
@@ -86,7 +86,7 @@ What if the there are more than one `l` on the line? Simply type `;` to repeat t
 - M -> Go to middle of the page
 - L -> Go to last line on the page
 - C-Up/C-Down -> Simply just page up and page down
-- C-O, C-I -> Jump to previous place/Jump back to next place
+- C-o/C-i -> Jump to previous place/Jump back to next place
 
 ### AceJump: Jump to any place on the page
 
@@ -97,7 +97,5 @@ This jumping is useful when you want to immediately jump to another line and ano
 ## Closing
 
 That's the end of part 1 of the crash course. Making use of these commands regularly should allow you to train your muscle memory. Once the muscle memory has strengthened, navigating in Vim should come as second nature. Hope this part 1 write up has been beneficial to you.
-
-Have better tips to navigate in Vim? Share in the comments!
 
 Stay tuned for part 2.
