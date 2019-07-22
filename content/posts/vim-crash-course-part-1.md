@@ -1,5 +1,5 @@
 ---
-title: "Vim Crash Course For IntelliJ Users"
+title: "Vim Crash Course For IntelliJ Users Part 1"
 date: 2019-07-21T22:30:59+08:00
 draft: false
 ---
